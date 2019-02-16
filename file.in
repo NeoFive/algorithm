@@ -1,0 +1,259 @@
+USER        PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root          1  0.0  0.4 225384  4768 ?        Ss   11月04   0:08 /sbin/init splash
+root          2  0.0  0.0      0     0 ?        S    11月04   0:00 [kthreadd]
+root          4  0.0  0.0      0     0 ?        I<   11月04   0:00 [kworker/0:0H]
+root          6  0.0  0.0      0     0 ?        I<   11月04   0:00 [mm_percpu_wq]
+root          7  0.0  0.0      0     0 ?        S    11月04   0:05 [ksoftirqd/0]
+root          8  0.0  0.0      0     0 ?        I    11月04   0:07 [rcu_sched]
+root          9  0.0  0.0      0     0 ?        I    11月04   0:00 [rcu_bh]
+root         10  0.0  0.0      0     0 ?        S    11月04   0:00 [migration/0]
+root         11  0.0  0.0      0     0 ?        S    11月04   0:00 [watchdog/0]
+root         12  0.0  0.0      0     0 ?        S    11月04   0:00 [cpuhp/0]
+root         13  0.0  0.0      0     0 ?        S    11月04   0:00 [kdevtmpfs]
+root         14  0.0  0.0      0     0 ?        I<   11月04   0:00 [netns]
+root         15  0.0  0.0      0     0 ?        S    11月04   0:00 [rcu_tasks_kthre]
+root         16  0.0  0.0      0     0 ?        S    11月04   0:00 [kauditd]
+root         17  0.0  0.0      0     0 ?        S    11月04   0:00 [khungtaskd]
+root         18  0.0  0.0      0     0 ?        S    11月04   0:00 [oom_reaper]
+root         19  0.0  0.0      0     0 ?        I<   11月04   0:00 [writeback]
+root         20  0.0  0.0      0     0 ?        S    11月04   0:00 [kcompactd0]
+root         21  0.0  0.0      0     0 ?        SN   11月04   0:00 [ksmd]
+root         22  0.0  0.0      0     0 ?        SN   11月04   0:00 [khugepaged]
+root         23  0.0  0.0      0     0 ?        I<   11月04   0:00 [crypto]
+root         24  0.0  0.0      0     0 ?        I<   11月04   0:00 [kintegrityd]
+root         25  0.0  0.0      0     0 ?        I<   11月04   0:00 [kblockd]
+root         26  0.0  0.0      0     0 ?        I<   11月04   0:00 [ata_sff]
+root         27  0.0  0.0      0     0 ?        I<   11月04   0:00 [md]
+root         28  0.0  0.0      0     0 ?        I<   11月04   0:00 [edac-poller]
+root         29  0.0  0.0      0     0 ?        I<   11月04   0:00 [devfreq_wq]
+root         30  0.0  0.0      0     0 ?        I<   11月04   0:00 [watchdogd]
+root         32  0.0  0.0      0     0 ?        I    11月04   0:52 [kworker/0:1]
+root         34  0.0  0.0      0     0 ?        S    11月04   0:09 [kswapd0]
+root         35  0.0  0.0      0     0 ?        S    11月04   0:00 [ecryptfs-kthrea]
+root         77  0.0  0.0      0     0 ?        I<   11月04   0:00 [kthrotld]
+root         78  0.0  0.0      0     0 ?        I<   11月04   0:00 [acpi_thermal_pm]
+root         79  0.0  0.0      0     0 ?        S    11月04   0:00 [scsi_eh_0]
+root         80  0.0  0.0      0     0 ?        I<   11月04   0:00 [scsi_tmf_0]
+root         81  0.0  0.0      0     0 ?        S    11月04   0:00 [scsi_eh_1]
+root         82  0.0  0.0      0     0 ?        I<   11月04   0:00 [scsi_tmf_1]
+root         88  0.0  0.0      0     0 ?        I<   11月04   0:00 [ipv6_addrconf]
+root         98  0.0  0.0      0     0 ?        I<   11月04   0:00 [kstrp]
+root        115  0.0  0.0      0     0 ?        I<   11月04   0:00 [charger_manager]
+root        176  0.0  0.0      0     0 ?        I<   11月04   0:00 [mpt_poll_0]
+root        177  0.0  0.0      0     0 ?        I<   11月04   0:00 [mpt/0]
+root        178  0.0  0.0      0     0 ?        S    11月04   0:00 [scsi_eh_2]
+root        179  0.0  0.0      0     0 ?        I<   11月04   0:00 [scsi_tmf_2]
+root        180  0.0  0.0      0     0 ?        S    11月04   0:00 [scsi_eh_3]
+root        181  0.0  0.0      0     0 ?        I<   11月04   0:00 [scsi_tmf_3]
+root        182  0.0  0.0      0     0 ?        S    11月04   0:00 [scsi_eh_4]
+root        183  0.0  0.0      0     0 ?        I<   11月04   0:00 [scsi_tmf_4]
+root        184  0.0  0.0      0     0 ?        S    11月04   0:00 [scsi_eh_5]
+root        185  0.0  0.0      0     0 ?        I<   11月04   0:00 [scsi_tmf_5]
+root        186  0.0  0.0      0     0 ?        S    11月04   0:00 [scsi_eh_6]
+root        187  0.0  0.0      0     0 ?        I<   11月04   0:00 [scsi_tmf_6]
+root        188  0.0  0.0      0     0 ?        S    11月04   0:00 [scsi_eh_7]
+root        189  0.0  0.0      0     0 ?        I<   11月04   0:00 [scsi_tmf_7]
+root        190  0.0  0.0      0     0 ?        S    11月04   0:00 [scsi_eh_8]
+root        191  0.0  0.0      0     0 ?        I<   11月04   0:00 [scsi_tmf_8]
+root        192  0.0  0.0      0     0 ?        S    11月04   0:00 [scsi_eh_9]
+root        193  0.0  0.0      0     0 ?        I<   11月04   0:00 [scsi_tmf_9]
+root        194  0.0  0.0      0     0 ?        S    11月04   0:00 [scsi_eh_10]
+root        195  0.0  0.0      0     0 ?        I<   11月04   0:00 [scsi_tmf_10]
+root        196  0.0  0.0      0     0 ?        S    11月04   0:00 [scsi_eh_11]
+root        197  0.0  0.0      0     0 ?        I<   11月04   0:00 [scsi_tmf_11]
+root        198  0.0  0.0      0     0 ?        S    11月04   0:00 [scsi_eh_12]
+root        199  0.0  0.0      0     0 ?        I<   11月04   0:00 [scsi_tmf_12]
+root        200  0.0  0.0      0     0 ?        S    11月04   0:00 [scsi_eh_13]
+root        201  0.0  0.0      0     0 ?        I<   11月04   0:00 [scsi_tmf_13]
+root        202  0.0  0.0      0     0 ?        S    11月04   0:00 [scsi_eh_14]
+root        203  0.0  0.0      0     0 ?        I<   11月04   0:00 [scsi_tmf_14]
+root        204  0.0  0.0      0     0 ?        S    11月04   0:00 [scsi_eh_15]
+root        205  0.0  0.0      0     0 ?        I<   11月04   0:00 [scsi_tmf_15]
+root        206  0.0  0.0      0     0 ?        S    11月04   0:00 [scsi_eh_16]
+root        207  0.0  0.0      0     0 ?        I<   11月04   0:00 [scsi_tmf_16]
+root        208  0.0  0.0      0     0 ?        S    11月04   0:00 [scsi_eh_17]
+root        209  0.0  0.0      0     0 ?        I<   11月04   0:00 [scsi_tmf_17]
+root        210  0.0  0.0      0     0 ?        S    11月04   0:00 [scsi_eh_18]
+root        211  0.0  0.0      0     0 ?        I<   11月04   0:00 [scsi_tmf_18]
+root        212  0.0  0.0      0     0 ?        S    11月04   0:00 [scsi_eh_19]
+root        213  0.0  0.0      0     0 ?        I<   11月04   0:00 [scsi_tmf_19]
+root        214  0.0  0.0      0     0 ?        S    11月04   0:00 [scsi_eh_20]
+root        215  0.0  0.0      0     0 ?        I<   11月04   0:00 [scsi_tmf_20]
+root        216  0.0  0.0      0     0 ?        S    11月04   0:00 [scsi_eh_21]
+root        217  0.0  0.0      0     0 ?        I<   11月04   0:00 [scsi_tmf_21]
+root        218  0.0  0.0      0     0 ?        S    11月04   0:00 [scsi_eh_22]
+root        219  0.0  0.0      0     0 ?        I<   11月04   0:00 [scsi_tmf_22]
+root        220  0.0  0.0      0     0 ?        S    11月04   0:00 [scsi_eh_23]
+root        221  0.0  0.0      0     0 ?        I<   11月04   0:00 [scsi_tmf_23]
+root        222  0.0  0.0      0     0 ?        S    11月04   0:00 [scsi_eh_24]
+root        223  0.0  0.0      0     0 ?        I<   11月04   0:00 [scsi_tmf_24]
+root        224  0.0  0.0      0     0 ?        S    11月04   0:00 [scsi_eh_25]
+root        225  0.0  0.0      0     0 ?        I<   11月04   0:00 [scsi_tmf_25]
+root        226  0.0  0.0      0     0 ?        S    11月04   0:00 [scsi_eh_26]
+root        227  0.0  0.0      0     0 ?        I<   11月04   0:00 [scsi_tmf_26]
+root        228  0.0  0.0      0     0 ?        S    11月04   0:00 [scsi_eh_27]
+root        229  0.0  0.0      0     0 ?        I<   11月04   0:00 [scsi_tmf_27]
+root        230  0.0  0.0      0     0 ?        S    11月04   0:00 [scsi_eh_28]
+root        231  0.0  0.0      0     0 ?        I<   11月04   0:00 [scsi_tmf_28]
+root        232  0.0  0.0      0     0 ?        S    11月04   0:00 [scsi_eh_29]
+root        233  0.0  0.0      0     0 ?        I<   11月04   0:00 [scsi_tmf_29]
+root        234  0.0  0.0      0     0 ?        S    11月04   0:00 [scsi_eh_30]
+root        235  0.0  0.0      0     0 ?        I<   11月04   0:00 [scsi_tmf_30]
+root        236  0.0  0.0      0     0 ?        S    11月04   0:00 [scsi_eh_31]
+root        237  0.0  0.0      0     0 ?        I<   11月04   0:00 [scsi_tmf_31]
+root        238  0.0  0.0      0     0 ?        S    11月04   0:00 [scsi_eh_32]
+root        239  0.0  0.0      0     0 ?        I<   11月04   0:00 [scsi_tmf_32]
+root        267  0.0  0.0      0     0 ?        I<   11月04   0:00 [ttm_swap]
+root        269  0.0  0.0      0     0 ?        S    11月04   0:00 [irq/16-vmwgfx]
+root        276  0.0  0.0      0     0 ?        I<   11月04   0:06 [kworker/0:1H]
+root        310  0.0  0.0      0     0 ?        S    11月04   0:02 [jbd2/sda1-8]
+root        311  0.0  0.0      0     0 ?        I<   11月04   0:00 [ext4-rsv-conver]
+root        339  0.0  2.4 127304 23952 ?        S<s  11月04   0:05 /lib/systemd/systemd-journald
+root        358  0.0  0.0  48996    48 ?        Ss   11月04   0:00 /lib/systemd/systemd-udevd
+root        380  0.0  0.0      0     0 ?        S<   11月04   0:00 [loop0]
+root        384  0.0  0.0      0     0 ?        S<   11月04   0:00 [loop1]
+root        389  0.0  0.0      0     0 ?        S<   11月04   0:00 [loop2]
+root        393  0.0  0.0      0     0 ?        S<   11月04   0:00 [loop3]
+root        396  0.0  0.0      0     0 ?        S<   11月04   0:00 [loop4]
+root        399  0.0  0.0      0     0 ?        S<   11月04   0:00 [loop5]
+root        401  0.0  0.0      0     0 ?        S<   11月04   0:00 [loop6]
+root        404  0.0  0.0      0     0 ?        S<   11月04   0:00 [loop7]
+root        407  0.0  0.0      0     0 ?        S<   11月04   0:00 [loop8]
+root        408  0.0  0.0      0     0 ?        S<   11月04   0:00 [loop9]
+root        409  0.0  0.0      0     0 ?        S<   11月04   0:00 [loop10]
+root        410  0.0  0.0      0     0 ?        S<   11月04   0:00 [loop11]
+root        411  0.0  0.0      0     0 ?        S<   11月04   0:00 [loop12]
+systemd+    421  0.0  0.1  70732  1460 ?        Ss   11月04   1:10 /lib/systemd/systemd-resolved
+systemd+    422  0.0  0.0 146092   176 ?        Ssl  11月04   0:17 /lib/systemd/systemd-timesyncd
+root        521  0.0  0.2  70664  2028 ?        Ss   11月04   0:00 /lib/systemd/systemd-logind
+message+    524  0.0  0.2  51608  2716 ?        Ss   11月04   0:05 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+syslog      531  0.0  0.0 263036   356 ?        Ssl  11月04   0:00 /usr/sbin/rsyslogd -n
+root        537  0.0  0.0   4552   132 ?        Ss   11月04   0:00 /usr/sbin/acpid
+root        538  0.0  0.0  38428   548 ?        Ss   11月04   0:00 /usr/sbin/cron -f
+root        539  0.0  0.0  44752    64 ?        Ss   11月04   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+root        540  0.0  0.1 517776  1464 ?        Ssl  11月04   0:00 /usr/lib/udisks2/udisksd
+root        542  0.0  0.7 582416  7496 ?        Ssl  11月04   0:06 /usr/sbin/NetworkManager --no-daemon
+root        543  0.0  0.2 308696  2668 ?        Ssl  11月04   0:01 /usr/lib/accountsservice/accounts-daemon
+root        544  0.0  0.7 480212  7636 ?        Ssl  11月04   0:08 /usr/lib/snapd/snapd
+root        548  0.0  0.0 177644   152 ?        Ssl  11月04   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher
+avahi       555  0.0  0.0  47256   640 ?        Ss   11月04   0:01 avahi-daemon: running [caitianxun-virtual-machine.local]
+root        560  0.0  0.1 427256  1052 ?        Ssl  11月04   0:00 /usr/sbin/ModemManager
+avahi       571  0.0  0.0  47076    40 ?        S    11月04   0:00 avahi-daemon: chroot helper
+root        594  0.0  0.4 321776  4704 ?        Ssl  11月04   0:03 /usr/lib/policykit-1/polkitd --no-debug
+root        706  0.0  0.5  72296  5520 ?        Ss   11月04   0:00 /usr/sbin/sshd -D
+root        707  0.0  0.1 308176  1316 ?        Ssl  11月04   0:00 /usr/sbin/gdm3
+root        780  0.0  0.4 419592  4508 ?        Sl   11月04   0:00 gdm-session-worker [pam/gdm-autologin]
+caitian+    845  0.0  0.2  77320  2056 ?        Ss   11月04   0:00 /lib/systemd/systemd --user
+caitian+    849  0.0  0.0 113924   256 ?        S    11月04   0:00 (sd-pam)
+root        854  0.0  0.0      0     0 ?        I<   11月04   0:00 [kworker/u257:0]
+root        855  0.0  0.0      0     0 ?        I<   11月04   0:00 [kworker/u257:1]
+mysql       889  0.0  0.0 1119320  228 ?        Sl   11月04   0:27 /usr/sbin/mysqld --daemonize --pid-file=/var/run/mysqld/mysqld.pid
+caitian+    920  0.0  0.1 288384  1656 ?        SLl  11月04   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+caitian+    933  0.0  0.0 212124   380 tty1     Ssl+ 11月04   0:00 /usr/lib/gdm3/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=ubuntu gnome-session --session=ubuntu
+caitian+    941  0.0  1.0 396912 10164 tty1     Sl+  11月04   0:08 /usr/lib/xorg/Xorg vt1 -displayfd 3 -auth /run/user/1000/gdm/Xauthority -background none -noreset -keeptty -verbose 3
+caitian+   1073  0.0  0.3  53276  3476 ?        Ss   11月04   0:01 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+caitian+   1087  0.0  0.2 643248  2456 tty1     Sl+  11月04   0:00 /usr/lib/gnome-session/gnome-session-binary --session=ubuntu
+root       1279  0.0  0.0  36476     0 ?        Ss   11月04   0:00 /usr/lib/bluetooth/bluetoothd
+caitian+   1308  0.0  0.0  11304    40 ?        Ss   11月04   0:00 /usr/bin/ssh-agent /usr/bin/im-launch env GNOME_SHELL_SESSION_MODE=ubuntu gnome-session --session=ubuntu
+caitian+   1323  0.0  0.1 291952  1748 ?        Ssl  11月04   0:00 /usr/lib/gvfs/gvfsd
+caitian+   1333  0.0  0.0 432036   180 ?        Sl   11月04   0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+caitian+   1385  0.0  0.0 367928   280 ?        Ssl  11月04   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+caitian+   1398  0.0  0.0  49924   448 ?        S    11月04   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+caitian+   1401  0.0  0.1 220780  1628 ?        Sl   11月04   0:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+root       1425  0.0  0.0 426144   168 ?        Ssl  11月04   0:01 /usr/bin/vmhgfs-fuse -o subtype=vmhgfs-fuse,allow_other /mnt/hgfs
+caitian+   1460  0.1 10.7 2996924 106088 tty1   Sl+  11月04   1:42 /usr/bin/gnome-shell
+root       1464  0.0  0.0 193056   100 ?        Ssl  11月04   0:00 /usr/sbin/vmware-vmblock-fuse -o subtype=vmware-vmblock,default_permissions,allow_other /var/run/vmblock-fuse
+root       1489  0.0  0.0 322324   380 ?        Ssl  11月04   0:00 /usr/lib/upower/upowerd
+root       1491  0.0  0.2 184180  2188 ?        Sl   11月04   1:13 /usr/sbin/vmtoolsd
+root       1535  0.0  0.0  72360   192 ?        S    11月04   0:00 /usr/lib/vmware-vgauth/VGAuthService -s
+caitian+   1586  0.0  0.2 1172060 2696 ?        S<l  11月04   0:00 /usr/bin/pulseaudio --start --log-target=syslog
+rtkit      1587  0.0  0.0 183504     0 ?        SNsl 11月04   0:00 /usr/lib/rtkit/rtkit-daemon
+root       1597  0.0  1.4 508348 14016 ?        Sl   11月04   0:45 //usr/lib/vmware-caf/pme/bin/ManagementAgentHost
+root       1602  0.0  0.0      0     0 ?        S<   11月04   0:00 [krfcommd]
+whoopsie   1604  0.0  0.1 542464  1176 ?        Ssl  11月04   0:00 /usr/bin/whoopsie -f
+kernoops   1617  0.0  0.0  56932   368 ?        Ss   11月04   0:01 /usr/sbin/kerneloops --test
+kernoops   1619  0.0  0.0  56932   488 ?        Ss   11月04   0:01 /usr/sbin/kerneloops
+caitian+   1675  0.0  0.2 377444  2012 tty1     Sl   11月04   0:00 ibus-daemon --xim --panel disable
+caitian+   1679  0.0  0.0 296800   692 tty1     Sl   11月04   0:00 /usr/lib/ibus/ibus-dconf
+caitian+   1683  0.0  0.1 356280  1404 tty1     Sl   11月04   0:00 /usr/lib/ibus/ibus-x11 --kill-daemon
+caitian+   1686  0.0  0.0 294744   320 ?        Sl   11月04   0:00 /usr/lib/ibus/ibus-portal
+caitian+   1694  0.0  0.1 696548  1484 ?        Sl   11月04   0:00 /usr/lib/gnome-shell/gnome-shell-calendar-server
+caitian+   1698  0.0  0.0 981180   388 ?        Ssl  11月04   0:00 /usr/lib/evolution/evolution-source-registry
+caitian+   1706  0.0  0.0 101436932 568 ?       Sl   11月04   0:00 /usr/lib/gnome-online-accounts/goa-daemon
+caitian+   1717  0.0  0.0 393344   264 ?        Sl   11月04   0:00 /usr/lib/gnome-online-accounts/goa-identity-service
+root       1727  0.0  0.0 315200   324 ?        Ssl  11月04   0:00 /usr/lib/x86_64-linux-gnu/boltd
+caitian+   1731  0.0  0.0 320200   652 ?        Ssl  11月04   0:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+caitian+   1735  0.0  0.0 288656   304 ?        Ssl  11月04   0:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+caitian+   1739  0.0  0.0 275868   344 ?        Ssl  11月04   0:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+caitian+   1743  0.0  0.0 274040   236 ?        Ssl  11月04   0:00 /usr/lib/gvfs/gvfs-goa-volume-monitor
+caitian+   1747  0.0  0.0 378808   184 ?        Ssl  11月04   0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+root       1752  0.0  3.3 531384 32748 ?        Ssl  11月04   0:22 /usr/lib/packagekit/packagekitd
+caitian+   1753  0.0  0.3 527476  3484 tty1     Sl+  11月04   0:00 /usr/lib/gnome-settings-daemon/gsd-power
+caitian+   1757  0.0  0.0 349324   432 tty1     Sl+  11月04   0:00 /usr/lib/gnome-settings-daemon/gsd-print-notifications
+caitian+   1763  0.0  0.0 423340   448 tty1     Sl+  11月04   0:00 /usr/lib/gnome-settings-daemon/gsd-rfkill
+caitian+   1766  0.0  0.0 275728   300 tty1     Sl+  11月04   0:00 /usr/lib/gnome-settings-daemon/gsd-screensaver-proxy
+caitian+   1769  0.0  0.2 471336  2176 tty1     Sl+  11月04   0:00 /usr/lib/gnome-settings-daemon/gsd-sharing
+caitian+   1772  0.0  0.0 504676   856 tty1     Sl+  11月04   0:00 /usr/lib/gnome-settings-daemon/gsd-xsettings
+caitian+   1777  0.0  0.0 343104   248 tty1     Sl+  11月04   0:00 /usr/lib/gnome-settings-daemon/gsd-sound
+caitian+   1780  0.0  0.2 440728  1984 tty1     Sl+  11月04   0:00 /usr/lib/gnome-settings-daemon/gsd-wacom
+caitian+   1786  0.0  0.0 392740   256 tty1     Sl+  11月04   0:00 /usr/lib/gnome-settings-daemon/gsd-smartcard
+caitian+   1793  0.0  0.0 296660   676 tty1     Sl+  11月04   0:00 /usr/lib/gnome-settings-daemon/gsd-a11y-settings
+caitian+   1798  0.0  0.2 668972  2744 tty1     Sl+  11月04   0:14 /usr/lib/gnome-settings-daemon/gsd-color
+caitian+   1800  0.0  0.0 355872   480 tty1     Sl+  11月04   0:00 /usr/lib/gnome-settings-daemon/gsd-clipboard
+caitian+   1801  0.0  0.0 476592   320 tty1     Sl+  11月04   0:00 /usr/lib/gnome-settings-daemon/gsd-datetime
+caitian+   1802  0.0  0.1 374708  1420 tty1     Sl+  11月04   0:01 /usr/lib/gnome-settings-daemon/gsd-housekeeping
+caitian+   1803  0.0  0.0 508164   532 tty1     Sl+  11月04   0:00 /usr/lib/gnome-settings-daemon/gsd-keyboard
+caitian+   1806  0.0  0.1 803140  1592 tty1     Sl+  11月04   0:00 /usr/lib/gnome-settings-daemon/gsd-media-keys
+caitian+   1808  0.0  0.1 893652  1264 ?        Ssl  11月04   0:00 /usr/lib/evolution/evolution-calendar-factory
+caitian+   1810  0.0  0.0 296660   272 tty1     Sl+  11月04   0:00 /usr/lib/gnome-settings-daemon/gsd-mouse
+caitian+   1832  0.0  0.0 508760   816 tty1     Sl+  11月04   0:00 /usr/lib/gnome-settings-daemon/gsd-printer
+colord     1848  0.0  0.0 339588     0 ?        Ssl  11月04   0:00 /usr/lib/colord/colord
+caitian+   1862  0.0  0.9 990852  9444 tty1     Sl+  11月04   0:01 nautilus-desktop
+caitian+   1873  0.0  0.0 384028   392 ?        Sl   11月04   0:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.7 /org/gtk/gvfs/exec_spaw/0
+caitian+   1880  0.0  0.1 945456  1200 ?        Sl   11月04   0:00 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory all --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx1808x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/1808/2
+caitian+   1885  0.0  0.1 271928  1012 tty1     Sl+  11月04   0:00 /usr/lib/gnome-disk-utility/gsd-disk-utility-notify
+caitian+   1890  0.0  1.4 1134512 14532 tty1    SLl+ 11月04   0:06 /usr/bin/gnome-software --gapplication-service
+caitian+   1891  0.0  0.3 188104  3408 tty1     S+   11月04   1:21 /usr/lib/vmware-tools/sbin64/vmtoolsd -n vmusr --blockFd 3
+caitian+   1910  0.0  0.1 187900  1872 ?        Sl   11月04   0:00 /usr/lib/dconf/dconf-service
+caitian+   1914  0.0  0.1 734952  1636 ?        Ssl  11月04   0:00 /usr/lib/evolution/evolution-addressbook-factory
+caitian+   1920  0.0  0.0 220944   496 tty1     Sl   11月04   0:00 /usr/lib/ibus/ibus-engine-simple
+caitian+   1942  0.0  0.0 892880   628 ?        Sl   11月04   0:00 /usr/lib/evolution/evolution-addressbook-factory-subprocess --factory all --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.AddressBookx1914x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/AddressBook/1914/2
+root       2002  0.0  0.1 563420  1240 ?        Ssl  11月04   0:02 /usr/lib/fwupd/fwupd
+caitian+   2077  0.0  1.1 604656 11372 tty1     Sl+  11月04   0:01 update-notifier
+caitian+   2117  0.0  0.2 101521980 2480 tty1   Sl+  11月04   0:00 /usr/lib/deja-dup/deja-dup-monitor
+caitian+   2141  0.0  1.3 820144 12912 ?        Ssl  11月04   0:01 /usr/lib/gnome-terminal/gnome-terminal-server
+caitian+   2151  0.0  0.1  29560  1792 pts/0    Ss+  11月04   0:00 bash
+caitian+   5657  0.0  0.1 204476  1856 ?        Ssl  11月04   0:00 /usr/lib/gvfs/gvfsd-metadata
+root      20575  0.0  0.0      0     0 ?        I    11月04   0:00 [kworker/0:0]
+root      30534  0.0  0.4 107784  4640 ?        Ss   07:08   0:00 sshd: caitianxun [priv]
+caitian+  30621  0.0  0.3 110084  3320 ?        S    07:08   0:00 sshd: caitianxun@pts/2
+caitian+  30622  0.0  0.4  29672  4228 pts/2    Ss+  07:08   0:00 -bash
+root      30632  0.0  0.4 107784  4540 ?        Ss   07:08   0:00 sshd: caitianxun [priv]
+caitian+  30697  0.0  0.3 110084  3396 ?        S    07:08   0:00 sshd: caitianxun@pts/6
+caitian+  30698  0.0  0.4  29800  4344 pts/6    Ss+  07:08   0:00 -bash
+root      31879  0.0  0.4 107784  4536 ?        Ss   08:10   0:00 sshd: caitianxun [priv]
+caitian+  31968  0.0  0.3 110084  3424 ?        S    08:10   0:00 sshd: caitianxun@pts/3
+caitian+  31969  0.0  0.4  29672  4632 pts/3    Ss+  08:10   0:00 -bash
+root      31984  0.0  0.4 107784  4592 ?        Ss   08:10   0:00 sshd: caitianxun [priv]
+caitian+  32049  0.0  0.3 110084  3252 ?        S    08:10   0:00 sshd: caitianxun@pts/4
+caitian+  32050  0.0  0.4  29672  4916 pts/4    Ss+  08:10   0:00 -bash
+root      32200  0.0  0.5 107676  5196 ?        Ss   08:15   0:00 /usr/sbin/cupsd -l
+root      32202  0.0  0.6 303648  6152 ?        Ssl  08:15   0:00 /usr/sbin/cups-browsed
+root      32767  0.0  0.7 107784  6996 ?        Ss   08:39   0:00 sshd: caitianxun [priv]
+caitian+  32832  0.0  0.5 110084  5532 ?        S    08:39   0:00 sshd: caitianxun@pts/7
+caitian+  32833  0.0  0.5  29672  5128 pts/7    Ss+  08:39   0:00 -bash
+root      32843  0.0  0.7 107784  7064 ?        Ss   08:39   0:00 sshd: caitianxun [priv]
+caitian+  32909  0.0  0.5 110084  5648 ?        S    08:39   0:00 sshd: caitianxun@pts/8
+caitian+  32910  0.0  0.5  29672  5044 pts/8    Ss+  08:39   0:00 -bash
+root      33629  0.0  0.6  25656  5952 ?        S    09:16   0:00 /sbin/dhclient -d -q -sf /usr/lib/NetworkManager/nm-dhcp-helper -pf /run/dhclient-ens33.pid -lf /var/lib/NetworkManager/dhclient-b2af8d5f-6ac5-3aef-b857-ae4c7dbc9647-ens33.lease -cf /var/lib/NetworkManager/dhclient-ens33.conf ens33
+root      33713  0.0  0.6 107784  6832 ?        Ss   09:16   0:00 sshd: caitianxun [priv]
+caitian+  33800  0.0  0.5 110084  5592 ?        S    09:16   0:00 sshd: caitianxun@pts/9
+caitian+  33801  0.0  0.5  29672  5180 pts/9    Ss   09:16   0:00 -bash
+root      33811  0.0  0.7 107784  7080 ?        Ss   09:16   0:00 sshd: caitianxun [priv]
+caitian+  33877  0.0  0.5 110084  5604 ?        S    09:16   0:00 sshd: caitianxun@pts/10
+caitian+  33878  0.0  0.5  29672  5184 pts/10   Ss   09:16   0:00 -bash
+caitian+  34056  0.0  0.9  62800  9684 pts/9    S+   09:24   0:02 vim copy.c
+root      34134  0.0  0.0      0     0 ?        I    09:28   0:00 [kworker/u256:2]
+root      34337  0.0  0.0      0     0 ?        I    09:41   0:00 [kworker/u256:1]
+root      34611  0.0  0.0      0     0 ?        I    09:55   0:00 [kworker/u256:0]
+caitian+  34684  0.0  0.3  46772  3904 pts/10   R+   09:59   0:00 ps aux
